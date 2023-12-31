@@ -1,0 +1,7 @@
+{
+	"playlist":
+[
+	{"Name": "Training Music", "list": ["song1.mp3", "song2.mp3"]},
+	{"Name": "Work Music", "list": ["song2.mp3"]}
+]
+}
